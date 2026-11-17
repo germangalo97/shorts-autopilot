@@ -1,0 +1,3 @@
+{
+  "_help": "Every on-screen fact, exactly as shown, with the source it was read from today. Scenes use it as «$t:key». Example: \"hour\": {\"text\": \"14:20\", \"source\": \"<official page URL and the sentence it comes from>\", \"read\": \"2026-11-16\"}"
+}

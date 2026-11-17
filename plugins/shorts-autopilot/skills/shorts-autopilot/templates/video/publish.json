@@ -1,0 +1,18 @@
+{
+  "_help": "Texts per network. AI images or voice: aiLabel stays true and every text says so. Closing = follow the account, never selling.",
+  "aiLabel": true,
+  "youtube": {
+    "title": "",
+    "description": ""
+  },
+  "tiktok": {
+    "text": ""
+  },
+  "instagram": {
+    "text": ""
+  },
+  "x": {
+    "text": ""
+  },
+  "published": {}
+}

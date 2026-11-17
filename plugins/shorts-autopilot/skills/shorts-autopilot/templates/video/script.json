@@ -1,0 +1,31 @@
+{
+  "_help": "5 blocks. ~2.8 words per second: 190 words = about 66 s. Numbers as digits (Whisper writes them that way); every fact must be in texts.json with its source. «style» directs the voice for that block.",
+  "voiceStyle": "Warm, close and with dry humor; calm, like someone putting evidence on a table. Not a news anchor, not an ad. Short sentences, short breaths between them, varied melody.",
+  "blocks": [
+    {
+      "id": "hook",
+      "text": "",
+      "style": "The question people are searching, with disbelief."
+    },
+    {
+      "id": "context",
+      "text": "",
+      "style": "Telling what people say, with light irony, mocking nobody."
+    },
+    {
+      "id": "teaching",
+      "text": "",
+      "style": "One proof at a time, clear and unhurried."
+    },
+    {
+      "id": "bridge",
+      "text": "",
+      "style": "Closer and lower, like confessing something."
+    },
+    {
+      "id": "closing",
+      "text": "",
+      "style": "Friendly invitation, no selling."
+    }
+  ]
+}

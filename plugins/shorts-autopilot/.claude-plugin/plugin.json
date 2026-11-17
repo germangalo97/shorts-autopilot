@@ -1,0 +1,19 @@
+{
+  "name": "shorts-autopilot",
+  "version": "1.0.0",
+  "description": "Faceless vertical shorts made end to end by Claude Code: research, verified facts, AI voice, animated captions, sound design, quality checks and publishing (YouTube Shorts, TikTok, Instagram Reels, X).",
+  "author": {
+    "name": "germangalo97"
+  },
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "shorts",
+    "faceless",
+    "remotion",
+    "tiktok",
+    "reels",
+    "youtube-shorts",
+    "content"
+  ]
+}

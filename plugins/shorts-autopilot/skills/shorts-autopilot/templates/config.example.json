@@ -1,0 +1,67 @@
+{
+  "shortsAutopilot": 1,
+  "_help": "Filled by Claude during the setup interview (references/setup.md). Keys and passwords never go here: they go in .env.",
+  "uiLanguage": "en",
+  "videoLanguage": "en",
+  "account": {
+    "name": "",
+    "handles": {
+      "youtube": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "closing": "Follow for the next one."
+  },
+  "rules": {
+    "declareAI": true,
+    "noSelling": true,
+    "neverMention": [],
+    "notes": []
+  },
+  "topics": {
+    "niche": "",
+    "audience": "",
+    "chooseTopic": "ask"
+  },
+  "style": {
+    "accent": "#D7FF3E",
+    "accent2": "#FFD23F",
+    "danger": "#FF3B3B",
+    "ok": "#2BD46B",
+    "text": "#FFFFFF",
+    "muted": "#8A8F98",
+    "bg": "#0E0E0E",
+    "panel": "#16181D",
+    "font": "anton",
+    "subtitleFont": "inter"
+  },
+  "labels": {
+    "badge": "MADE WITH AI",
+    "aiImage": "AI-GENERATED IMAGE"
+  },
+  "voice": {
+    "provider": "gemini",
+    "model": "gemini-3.8-flash-tts",
+    "voice": "Aoede",
+    "pauseFactor": 0.45
+  },
+  "whisper": {
+    "model": "small",
+    "device": "auto"
+  },
+  "images": {
+    "provider": "codex"
+  },
+  "publishing": {
+    "browserTool": "playwright",
+    "browser": "chrome",
+    "youtube": "browser",
+    "youtubeVisibility": "PUBLIC",
+    "instagram": "manual",
+    "tiktok": "manual",
+    "x": "manual",
+    "metricool": false,
+    "webAutomationRiskAccepted": false
+  }
+}

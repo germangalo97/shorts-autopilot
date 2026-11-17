@@ -1,0 +1,11 @@
+{
+  "title": "",
+  "date": "",
+  "take": "take-1",
+  "music": {
+    "file": "",
+    "from": 0,
+    "db": -13
+  },
+  "_help": "take: change it (take-2…) to ask for a new voice take; takes are never overwritten. music.file: a file in <studio>/music."
+}

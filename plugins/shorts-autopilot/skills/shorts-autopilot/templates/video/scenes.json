@@ -1,0 +1,39 @@
+{
+  "_help": "See references/scenes.md. Word references are «index:word» from «sa.py words». Colors: accent, accent2, danger, ok, text, muted, bg, panel or #RRGGBB.",
+  "hits": [],
+  "subtitles": {
+    "hide": [],
+    "keywords": {}
+  },
+  "music": {
+    "cuts": []
+  },
+  "sound": {
+    "extra": []
+  },
+  "scenes": [
+    {
+      "from": "start",
+      "background": {
+        "image": "hook.png",
+        "zoom": [
+          1.2,
+          1.06
+        ],
+        "dim": 0.9
+      },
+      "beats": [
+        {
+          "at": "start",
+          "lines": [
+            "FIRST LINE",
+            {
+              "text": "SECOND",
+              "color": "accent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "shorts-autopilot",
+  "description": "Faceless vertical shorts made end to end by Claude Code: verified facts, AI voice, animated captions, sound design, quality checks and publishing.",
+  "owner": {
+    "name": "germangalo97"
+  },
+  "plugins": [
+    {
+      "name": "shorts-autopilot",
+      "source": "./plugins/shorts-autopilot",
+      "description": "From a trending topic to a published faceless short, with a check at every step."
+    }
+  ]
+}

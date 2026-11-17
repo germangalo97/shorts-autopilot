@@ -1,0 +1,11 @@
+{
+  "_help": "One piece per background image. Written in English for the image model. Always: no text, no logos, no real people, no recognizable landmarks.",
+  "pieces": [
+    {
+      "piece": "hook",
+      "purpose": "background plate for a vertical 9:16 social video; big captions will be composited in the upper half later.",
+      "image": "",
+      "constraints": "no text, no letters, no numbers, no logos, no recognizable real places or people."
+    }
+  ]
+}
